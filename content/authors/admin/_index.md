@@ -1,6 +1,6 @@
 ---
 title: Alireza Sepas-Moghaddam
-role: Postdoctoral Research Fellow]
+role: Postdoctoral Research Fellow
 avatar_filename: alireza.jpg
 bio: ""
 interests:
