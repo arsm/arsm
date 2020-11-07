@@ -1,6 +1,7 @@
 ---
 title: Alireza Sepas-Moghaddam
 role: Postdoctoral Research Fellow, Queen's University
+avatar_filename: alireza.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
