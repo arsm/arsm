@@ -1,9 +1,8 @@
 ---
 title: Alireza Sepas-Moghaddam
-role: Postdoctoral Research Fellow, Queen's University
+role: Postdoctoral Research Fellow]
 avatar_filename: alireza.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -22,7 +21,7 @@ social:
     icon_pack: fab
     link: https://github.com/gcushen
 organizations:
-  - name: Stanford University
+  - name: Queen's University
     url: ""
 education:
   courses:
