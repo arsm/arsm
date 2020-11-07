@@ -1,6 +1,6 @@
 ---
-title: Nelson Bighetti
-role: Professor of Artificial Intelligence
+title: Alireza Sepas-Moghaddam
+role: Postdoctoral Research Fellow, Queen's University
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
