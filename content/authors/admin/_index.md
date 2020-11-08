@@ -9,18 +9,9 @@ interests:
   - Computer Vision
   - Facial Image Analysis
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=epqBcMwAAAAJ&view_op=list_works&sortby=pubdate
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
 organizations:
   - name: Queen's University
     url: ""
