@@ -6,6 +6,7 @@ bio: ""
 interests:
   - Machine Learning
   - Deep Learning
+  - Computer Vision
   - Facial Image Analysis
 social:
   - icon: envelope
