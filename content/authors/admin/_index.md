@@ -4,9 +4,9 @@ role: Postdoctoral Research Fellow
 avatar_filename: alireza.jpg
 bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Deep Learning
+  - Facial Image Analysis
 social:
   - icon: envelope
     icon_pack: fas
@@ -25,15 +25,9 @@ organizations:
     url: ""
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD with distinction and honour in Electrical and Computer Engineering
+      institution: Instituto Superior Técnico, University of Lisbon
+      year: 2019
 email: ""
 superuser: true
 user_groups:
