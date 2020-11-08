@@ -12,6 +12,9 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=en&user=epqBcMwAAAAJ&view_op=list_works&sortby=pubdate
+  - link: https://ca.linkedin.com/in/alireza-sepas-moghaddam-215a8a58
+    icon_pack: ai
+    icon: Linkedin
 organizations:
   - name: Queen's University
     url: ""
